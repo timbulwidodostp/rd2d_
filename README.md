@@ -1,6 +1,8 @@
 # rd2d_
 Location-Based Methods for Boundary Discontinuity Design Use rd2d With (In) R Software
 
+https://www.youtube.com/watch?v=sqoVfPFh6Fo
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
